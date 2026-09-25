@@ -1,0 +1,10 @@
+{
+  "name": "Qualitypharma Senior Medical Mentor",
+  "description": "Coach interactivo y mentor científico de Helixor para visitadoras médicas de Qualitypharma: simulador de visita clínica con audio y voz, búsqueda de evidencia indexada y feedback psicológico constructivo.",
+  "requestFramePermissions": [
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
